@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(251, 194, 134, 0.737);
+}
+
+h1{
+    background-color: rgba(248, 186, 116, 0.911);
+    /* line-height: 60px; */
+    width: 500px;
+    margin: auto;
+    padding: 25px 20px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+
+
+
+.violin{
+    width: 340px;
+    height: 400px;
+    background-color: rgba(209, 148, 68, 0.181);
+    float: right;
+}
+
+.img{
+    height: 250px;
+    background-image: url(../images/card1.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text1{
+    font-size: 30px;
+    font-weight: bolder;
+    background-color: rgb(244, 199, 141);
+    padding: 5px;
+}
+
+
+.img span{
+    background-color: rgb(249, 190, 95);
+    margin-right: 5px;
+}
+.img span:hover{
+    background-color: rgba(121, 58, 13, 0.421);
+}
+
+
+.text2{
+    padding: 17px 13px;
+    font-size: 17px;
+    text-decoration: underline;
+    
+}
+
+button{
+    padding: 10px 30px;
+    border: 2px solid rgba(232, 150, 56, 0.911);
+    border-radius: 30px;
+    background-color: rgba(248, 186, 116, 0.911) ;
+    font-size: 17px;
+    margin: 17px;
+}
+
+button:hover{
+    background-color: rgba(121, 58, 13, 0.421);
+}
+
+
+.img2{
+    height: 250px;
+    background-image: url(../images/card2.jpg);
+    background-position: top;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+
+.img3{
+    height: 250px;
+    background-image: url(../images/card3.jpg);
+    background-position: top;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+
+
+.content{
+    /* background-color: rgba(165, 91, 42, 0.619); */
+    margin-top: 80px;
+    
+}
+
+.violin1{
+    margin-right: 250px;
+}
+
+.violin2{
+    margin: 0 50px;
+}
+
+
+.p{
+    font-size: 20px;
+    font-weight: bold;
+    border: 5px dotted rgba(121, 58, 13, 0.421);
+    margin-top: 550px;
+    width: 450px;
+    height: 50px;
+    padding-top: 10px ;
+    text-align: center;
+    margin-left: 520px;
+    background-color: rgba(209, 148, 68, 0.181);
+}
+
+.p:hover{
+    background-color: rgba(121, 58, 13, 0.421);
+}
+
+
+img{
+    width: 100%;
+    height: 250px;
+    margin-top: 30px;
+}

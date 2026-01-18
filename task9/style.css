@@ -1,0 +1,272 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    background: linear-gradient(to top, red, yellow);
+}
+
+
+
+.cloud{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(103, 13, 13);
+    border-radius: 40px;
+    position: relative;
+    left: 70px;
+    top: 50px;
+
+}
+
+@keyframes car1{
+    from{
+        left: 70px;
+    }
+    to{
+        left: 1300px;
+    }
+}
+
+
+.cloud1{
+    border-top: 4px solid black;
+    position: relative;
+
+    animation-name: car1;
+    animation-duration: 3s;
+    animation-fill-mode: forwards
+
+}
+
+.cloud12{
+    width: 180px;
+    position: absolute;
+    top: 30px;
+    left: -40px;
+    border-right: 4px solid black;
+
+}
+
+
+.ball{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: radial-gradient(black , brown);
+    position: absolute;
+    border: 2px solid black;
+
+}
+
+.ball1{
+    top: 60px;
+    left: -20px;
+}
+
+.ball2{
+    top: 60px;
+    left: 60px;
+}
+
+
+/* //////////////////////////////////////// */
+
+
+
+
+
+.cloud20{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(103, 13, 13);
+    border-radius: 40px;
+    position: relative;
+    left: -110px;
+    top: 140px;
+    float: right;
+
+}
+
+@keyframes car2{
+    from{
+        left: -110px;
+    }
+    to{
+        left: -1300px;
+    }
+}
+
+
+.cloud20{
+    border-top: 4px solid black;
+    position: relative;
+
+    animation-name: car2;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    animation-delay: 3s;
+}
+
+.cloud12{
+    width: 180px;
+    position: absolute;
+    top: 30px;
+    left: -40px;
+    border-right: 4px solid black;
+
+}
+
+
+.ball{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: radial-gradient(black , brown);
+    position: absolute;
+    border: 2px solid black;
+
+}
+
+.ball1{
+    top: 60px;
+    left: -20px;
+}
+
+.ball2{
+    top: 60px;
+    left: 60px;
+}
+
+
+/* //////////////////////////////////////// */
+
+
+.cloud30{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(103, 13, 13);
+    border-radius: 40px;
+    position: relative;
+    left: 130px;
+    top: 280px;
+}
+
+@keyframes car3{
+    from{
+        left: 130px;
+    }
+    to{
+        left: 1300px;
+    }
+}
+
+
+.cloud30{
+    border-top: 4px solid black;
+    position: relative;
+
+    animation-name: car3;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    animation-delay: 6s;
+}
+
+.cloud12{
+    width: 180px;
+    position: absolute;
+    top: 30px;
+    left: -40px;
+    border-right: 4px solid black;
+
+}
+
+
+.ball{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: radial-gradient(black , brown);
+    position: absolute;
+    border: 2px solid black;
+
+}
+
+.ball1{
+    top: 60px;
+    left: -20px;
+}
+
+.ball2{
+    top: 60px;
+    left: 60px;
+}
+
+
+/* //////////////////////////////////////// */
+
+
+.cloud40{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(103, 13, 13);
+    border-radius: 40px;
+    position: relative;
+    left: -110px;
+    top: 380px;
+    float: right;
+
+}
+
+@keyframes car4{
+    from{
+        left: -110px;
+    }
+    to{
+        left: -1300px;
+    }
+}
+
+
+.cloud40{
+    border-top: 4px solid black;
+    position: relative;
+
+    animation-name: car4;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    animation-delay: 9s;
+}
+
+.cloud12{
+    width: 180px;
+    position: absolute;
+    top: 30px;
+    left: -40px;
+    border-right: 4px solid black;
+
+}
+
+
+.ball{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: radial-gradient(black , brown);
+    position: absolute;
+    border: 2px solid black;
+
+}
+
+.ball1{
+    top: 60px;
+    left: -20px;
+}
+
+.ball2{
+    top: 60px;
+    left: 60px;
+}

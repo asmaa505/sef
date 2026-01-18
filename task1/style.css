@@ -1,0 +1,15 @@
+h2{
+    color: rgba(41, 191, 245, 0.738);
+}
+
+h3,
+h2{
+    background-color: rgba(239, 186, 120, 0.74);
+    width: 300px;
+}
+
+button{
+    background-color: lightblue;
+    width: 170px;
+    height: 40px;
+}

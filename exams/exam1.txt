@@ -1,0 +1,412 @@
+Front-R43-Test-1
+إجمالي النقاط
+45/50
+ 
+الاسم رباعي بالعربي /
+*
+اسماء احمد اسماعيل مارية
+id /
+*
+285222256444
+ 
+1. What does CSS stand for?
+1/1
+a. Computer System Styles
+b. Cascoding Style Sheets
+c. Cascading Style Sheets
+ 
+d. Code Syntax Structure
+ 
+2. Which character is used to represent the closing of a tag in HTML?
+1/1
+a. \
+b. /
+ 
+c. !
+d. .
+ 
+3. What will be the output of following CSS code snippet? h1 { color: "green" ; }
+1/1
+a. heading becomes dark-green
+b. heading becomes green
+c. nothings happen
+ 
+d. h1 becomes green
+ 
+4. selector { ........................ : value ; }
+1/1
+a. tag
+b. declaration
+c. img
+d. property
+ 
+ 
+5. How do you include an external CSS file in an HTML document?
+1/1
+a. <style src="styles.css">
+b. <link rel="stylesheet" href="styles.css">
+ 
+c. <link rel=”stylesheet” src=”style.css” />
+d. <style rel=”stylesheet” link=”style.css” />
+ 
+6. Which CSS property is used to create rounded corners with different radii for each
+corner of an element?
+1/1
+a. border-round-radius
+b. border-radius
+ 
+c. corner-radius
+d. border-corner-radius
+ 
+7. Which of the following is the correct syntax to make the background-color of all
+paragraph elements to yellow?
+1/1
+a. all {background-color : yellow;}
+b. p {background-color : #yellow;}
+c. all p {background-color : #yellow;}
+d. p {background-color : yellow;}
+ 
+ 
+8. What the default value for type attribute in ol tag ?
+1/1
+a. 1
+ 
+b. 0
+c. A
+d. a
+ 
+9. Which of the following has introduced border, color, and background properties?
+1/1
+a. HTML
+b. Head
+c. CSS
+ 
+d. body
+ 
+10. An HTML program is saved by using the ____ extension.
+0/1
+a. .ht
+b. .hmtl
+ 
+c. .hml
+d. None of the above
+ 
+11. to choose Gender you have to use ........... tag ?
+0/1
+a. input
+b. p
+c. type="password"
+d. type="radio"
+ 
+ 
+12. There are ___ levels of heading in HTML
+1/1
+a. Three
+b. Four
+c. Five
+d. Six
+ 
+ 
+13. p { color : green } is that a value for that code without semicolon  ? ? ?
+1/1
+a. yes
+ 
+b. no
+ 
+14. Which property is used to change the text color in CSS?
+1/1
+a. font-color
+b. colour
+c. text-color
+d. color
+ 
+ 
+15. What is the use of <hr/> tag in HTML?
+1/1
+a. For making content appearance italics
+b. To create vertical rule between sections
+c. To create a line break
+d. To create horizontal rule between sections
+ 
+ 
+16. Which property allows an image link to show a text label?
+1/1
+a. alt
+ 
+b. str
+c. src
+d. Alternative
+ 
+17. to make a list that listed with some numbers you have to use ......................
+1/1
+a. ul
+b. ol
+ 
+c. dl
+d. dt
+ 
+18. What is the attribute in an <iframe> tag specify The destination URL of
+the hyperlink ?
+1/1
+a. src
+ 
+b. target
+c. href
+d. link
+ 
+19. The HTML tags are all …
+1/1
+a. in lower case
+b. in upper case
+c. case sensitive
+d. not case sensitive
+ 
+ 
+20. What is the default type of ‘type’ attribute of <input> element?
+1/1
+a. Text
+ 
+b. Password
+c. Numerals
+d. Special Characters
+ 
+21. The special formatting codes in HTML document used to present content are
+1/1
+a. Tags
+ 
+b. Attributes
+c. Values
+d. None of above
+ 
+22. Which input type is used for selecting a multiple option from a list of choices?
+1/1
+a. Radio
+b. Checkbox
+ 
+c. Select
+d. Textarea
+ 
+23. Which of the following tag is used for inserting the largest heading in HTML?
+1/1
+a. <h3>
+b. <h1>
+ 
+c. <h4>
+d. <h6>
+ 
+24. How to insert an image in HTML?
+1/1
+a. <img href = "image.png" />
+b. <img scr = "image.png" />
+c. <img link = "image.png" />
+d. <img src = "image.png" />
+ 
+ 
+25. What is the difference between the <a> and <iframe> tags?
+1/1
+a. <a> tags create hyperlinks, while <iframe> tags embed content
+ 
+b. <a> tags embed content, while <iframe> tags create hyperlinks
+c. There is no difference between the two tags
+d. None of the above
+ 
+26. Which tag do we use in HTML for inserting a line-break?
+1/1
+a. <a>
+b. <br>
+ 
+c. <b>
+d. <pre>
+ 
+27. ..........HTML stands for 
+1/1
+a. HighText Machine Language
+b. HyperText and links Markup Language
+c. HyperText Markup Language
+ 
+d. None of these
+ 
+28. html tag that make button............
+1/1
+a. button
+ 
+b. btn
+c. buton
+d. mark
+ 
+29- Which of the following HTML tag is used to create an unordered list?
+1/1
+<order list>
+<unordered list>
+<unorder list>
+none of all
+ 
+ 
+30. Which of the following tag is used to make drop-down selection list?
+0/1
+a. <select>
+b. <list>
+c. <dropdown>
+ 
+d. <option>
+ 
+31. to get a Youtube video inside your page you have to click ....................... after right
+click in side the video
+1/1
+a. code embed <>
+b. copy embed code <>
+ 
+c. right clink on code
+d. none of the above
+ 
+32- The correct sequence of HTML tags for starting a webpage is
+1/1
+a. Head, Title, HTML, body
+b. HTML, Body, Title, Head
+c. HTML, Head, Title, Body
+ 
+d. HTML, Title, Head , Body
+ 
+33-  The HTML tag used to define the internal stylesheet is -
+0/1
+<styel>
+ 
+<script>
+<link>
+<style>
+ 
+34. How can you open a link in a new tab/browser window ؟
+1/1
+a. <a href="url" new >
+b. <a href= "url" target = "_blank" >
+ 
+c. <a href= "url" target = "new" >
+d. <a href= "url" target = "_self" >
+ 
+35. start tag + content + end tag = .........................
+1/1
+a. attribute
+b. color
+c. css
+d. element
+ 
+ 
+36- To make a link in html you have to use ........ tag .
+1/1
+p
+link
+a
+ 
+ul
+ 
+37- Which HTML element is used for YouTube videos?
+1/1
+<small>
+<video>
+<a>
+<iframe>
+ 
+ 
+38. Which CSS property is used to define the background color of an element?
+1/1
+a. background-color
+ 
+b. bg-color
+c. color-background
+d. background
+ 
+39. Which value is used to set the horizontal alignment of text?
+0/1
+A) align-text
+B) text-align
+ 
+c) text-style
+D) center
+ 
+40. Which HTML element is used to define the document's body?
+1/1
+A. <head>
+B. <document>
+C. <body>
+ 
+D. <html>
+ 
+41. Which HTML element is used to create a label for a form field?
+1/1
+a. <input>
+b. <label>
+ 
+c. <form>
+d. <fieldset>
+ 
+42. How do you add a border to an element in CSS?
+1/1
+A. border: 1px solid black;
+ 
+B. border-width: 1px black;
+C. border-style: solid black 1px;
+D. border-color: black solid 1px;
+ 
+43. A program in HTML can be rendered and read by …
+1/1
+a. Web browser
+ 
+b. Server
+c. Interpreter
+d. None of the above
+ 
+44. What is the correct way to add comments in CSS?
+1/1
+a. /* This is a comment */
+ 
+b. // This is a comment //
+c. // This is a comment
+d. <!-- This is a comment -->
+ 
+45. What is the purpose of the <form> element in HTML?
+1/1
+a. To define a hyperlink
+b. To create a table
+c. To group and organize related form fields
+ 
+d. To display images
+ 
+46- An HTML document can contain _____
+1/1
+Attributes
+Tags
+Raw text
+All mentioned
+ 
+ 
+47. What is the attribute in an <a> tag specify The destination URL of
+the hyperlink ?
+1/1
+a. src
+b. target
+c. href
+ 
+d. link
+ 
+48- placeholder is one of the attributes given to .............
+1/1
+input
+ 
+p
+span
+h1
+ 
+49.  Inline elements are normally displayed without starting a new line
+1/1
+a. True
+ 
+b. False
+ 
+50. What is the correct way to select an element with the class "btn" and apply a hover
+effect to it?
+1/1
+a. :btnhover: { }
+b. .btn:hover { }
+ 
+c. #btn:hover { }
+d. btn:hover: { }
