@@ -86,3 +86,8 @@ body{
     grid-row: 2/4;
 }
 
+
+#y{
+    color: blue;
+    background-color: rgba(255, 0, 0, 0);
+}

@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS 5</title>
+    <link rel="stylesheet" href="./style.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <!-- <section class="w-full grid grid grid-cols-4 gap-4 p-4 container" >
+        
+        <div class="w-full pb-4 
+                border border-2 border-black 
+                rounded-lg
+                shadow-xl shadow-white">
+            <img src="./images/1.jpg" alt="" class="w-full">
+            <p class="text-lg pt-4 pl-2" >Price: <span price="3000" class="text-black font-bold text-lg" id="onePrice">3000</span>LE</p>
+            <button class="w-[8rem] h-8
+                            border border-2 border-green-400
+                            bg-green-400
+                            text-white font-bold
+                            rounded-lg
+                            ml-[12rem] " id="btn">Buy</button>
+        </div>
+
+
+        
+        
+    </section> -->
+
+
+
+
+
+
+    <ul class=" h-screen bg-blck grid grid-cols-4 gap-8 p-8 " id="container">
+        <li class=" border border-2 border-green-400">
+            <img src="./images/1.jpg" alt="" class="w-full">
+            <p price="3000" class="priceOne text-lg font-semibold text-green-700 p-4">Price: 3000$</p>
+            <button class="btn bg-green-400 px-8 py-2 rounded-lg text-white font-semibold transition duration-500 ml-[9rem] mb-4 hover:shadow-[0px_1px_8px_4px_rgba(0,0,0,0.4)]">Buy Now</button>
+        </li>
+
+        <li class="border border-2 border-green-400">
+            <img src="./images/1.jpg" alt="">
+            <p price="4000" class="priceOne text-lg font-semibold text-green-700 p-4">Price: 4000$</p>
+            <button class="btn bg-green-400 px-8 py-2 rounded-lg text-white font-semibold transition duration-500 ml-[9rem] mb-4 hover:shadow-[0px_1px_8px_4px_rgba(0,0,0,0.4)]">Buy Now</button>
+        </li>
+
+        <li class="border border-2 border-green-400">
+            <img src="./images/1.jpg" alt="">
+            <p price="2000" class="priceOne text-lg font-semibold text-green-700 p-4">Price: 2000$</p>
+            <button class="btn bg-green-400 px-8 py-2 rounded-lg text-white font-semibold transition duration-500 ml-[9rem] mb-4 hover:shadow-[0px_1px_8px_4px_rgba(0,0,0,0.4)]">Buy Now</button>
+        </li>
+
+        <li class="border border-2 border-green-400">
+            <img src="./images/1.jpg" alt="">
+            <p price="10000" class="priceOne text-lg font-semibold text-green-700 p-4">Price: 10000$</p>
+            <button class="btn bg-green-400 px-8 py-2 rounded-lg text-white font-semibold transition duration-500 ml-[9rem] mb-4 hover:shadow-[0px_1px_8px_4px_rgba(0,0,0,0.4)]">Buy Now</button>
+        </li>
+
+        <li class="border border-2 border-green-400">
+            <img src="./images/1.jpg" alt="">
+            <p price="9000" class="priceOne text-lg font-semibold text-green-700 p-4">Price: 9000$</p>
+            <button class="btn bg-green-400 px-8 py-2 rounded-lg text-white font-semibold transition duration-500 ml-[9rem] mb-4 hover:shadow-[0px_1px_8px_4px_rgba(0,0,0,0.4)]">Buy Now</button>
+        </li>
+
+        <li class="border border-2 border-green-400">
+            <img src="./images/1.jpg" alt="">
+            <p price="3000" class="priceOne text-lg font-semibold text-green-700 p-4">Price: 3000$</p>
+            <button class="btn bg-green-400 px-8 py-2 rounded-lg text-white font-semibold transition duration-500 ml-[9rem] mb-4 hover:shadow-[0px_1px_8px_4px_rgba(0,0,0,0.4)]">Buy Now</button>
+        </li>
+
+        <li class="border border-2 border-green-400">
+            <img src="./images/1.jpg" alt="">
+            <p price="300" class="priceOne text-lg font-semibold text-green-700 p-4">Price: 300$</p>
+            <button class="btn bg-green-400 px-8 py-2 rounded-lg text-white font-semibold transition duration-500 ml-[9rem] mb-4 hover:shadow-[0px_1px_8px_4px_rgba(0,0,0,0.4)]">Buy Now</button>
+        </li>
+
+        <li class="border border-2 border-green-400">
+            <img src="./images/1.jpg" alt="">
+            <p price="4000" class="priceOne text-lg font-semibold text-green-700 p-4">Price: 4000$</p>
+            <button class="btn bg-green-400 px-8 py-2 rounded-lg text-white font-semibold transition duration-500 ml-[9rem] mb-4 hover:shadow-[0px_1px_8px_4px_rgba(0,0,0,0.4)]">Buy Now</button>
+        </li>
+
+        <li class="border border-2 border-green-400">
+            <img src="./images/1.jpg" alt="">
+            <p price="88000" class="priceOne text-lg font-semibold text-green-700 p-4">Price: 88000$</p>
+            <button class="btn bg-green-400 px-8 py-2 rounded-lg text-white font-semibold transition duration-500 ml-[9rem] mb-4 hover:shadow-[0px_1px_8px_4px_rgba(0,0,0,0.4)]">Buy Now</button>
+        </li>
+
+        <li class="border border-2 border-green-400">
+            <img src="./images/1.jpg" alt="">
+            <p price="5000" class="priceOne text-lg font-semibold text-green-700 p-4">Price: 5000$</p>
+            <button class="btn bg-green-400 px-8 py-2 rounded-lg text-white font-semibold transition duration-500 ml-[9rem] mb-4 hover:shadow-[0px_1px_8px_4px_rgba(0,0,0,0.4)]">Buy Now</button>
+        </li>
+
+        
+        
+    </ul>
+
+    
+    <div class="h-screen mt-[22rem]">
+        <div id="total" class="font-bold text-xl text-green-700 pl-5 ml-8">Total: </div>
+
+        <button class="btn bg-red-400 px-8 py-2 rounded-lg text-white font-semibold transition duration-500 ml-8 mt-8 hover:shadow-[0px_1px_8px_4px_rgba(0,0,0,0.4)]" id="reset">Reset</button>
+    </div>
+    
+    
+    
+    
+    <script src="./script.js"></script>
+</body>
+</html>
